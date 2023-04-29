@@ -32,8 +32,8 @@ Informatics Engineering
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/satdeputr-b6457a230#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/satdeputr-b6457a230#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/satdeputr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/satdeputr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/satdeputr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/satdeputr#gh-dark-mode-only)
